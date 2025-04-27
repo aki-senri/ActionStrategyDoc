@@ -1,0 +1,12 @@
+---
+description: 仕様と設計を参照する場合に使用する
+globs: 
+alwaysApply: false
+---
+これらのファイルは確認なしにファイルの内容を参照する。
+
+# 仕様書
+doc/specification.md
+
+# プログラム設計書
+doc/program_design.md
